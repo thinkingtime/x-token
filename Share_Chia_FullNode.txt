@@ -1,53 +1,53 @@
-show -a node.chia.net:8444
-show -a chiadb.net:8444
-show -a chia.biohacker.fun:8444
-show -a chia.keva.app:8444
-show -a sumo.chia.net:8444
-show -a beast.chia.net:8444
-show -a chia.yacp.net:8444
-show -a introducer-apne.chia.net:8444
-show -a introducer-apse.chia.net:8444
-show -a introducer.chia.net:8444
-show -a introducer-or.chia.net:8444
-show -a introducer-va.chia.net:8444
-show -a introducer-eu.chia.net:8444
-show -a apne.chia.net:8444
-show -a apse.chia.net:8444
-show -a eu.chia.net:8444
-show -a www.apm5.com:8444
-show -a mygx.wicp.net:8444
-show -a node.skywing.me:8444
-show -a xiaoheitu.mynetgear.com:8444
-show -a t.imlxy.net:8444
-show -a 46.164.244.128:8444
-show -a 86.115.221.224:8444
-show -a 109.106.139.185:8444
-show -a 37.57.127.59:8444
-show -a 90.251.254.12:8444
-show -a 118.174.255.183:8444
-show -a 46.19.196.63:8444
-show -a 222.90.142.28:8444
-show -a 116.4.8.62:8444
-show -a 222.68.26.133:8444
-show -a 192.144.214.57:8444
-show -a 178.91.58.107:8444
-show -a node.chiaai.net:8444
-show -a 77.220.11.96:8444
-show -a 129.227.137.236:8444
-show -a 112.248.132.130:8444
-show -a 134.249.224.71:8444
-show -a 190.45.109.97:8444
-show -a 134.3.231.147:8444
-show -a 189.60.5.122:8444
-show -a 1.70.246.64:8444
-show -a 77.254.117.62:8444
-show -a 217.193.163.18:8444
-show -a node.chia.migpool.com:8444
-show -a node.skywing.me:8444
-show -a 80.153.63.138:8444
-show -a 117.71.190.251:8444
-show -a 81.240.70.27:8444
-show -a 180.183.71.216:8444
-show -a 92.49.193.25:8444
-show -a 125.26.198.16:8444
-show -a 217.225.40.225:8444
+chia_program_path show -a node.chia.net:8444
+chia_program_path show -a chiadb.net:8444
+chia_program_path show -a chia.biohacker.fun:8444
+chia_program_path show -a chia.keva.app:8444
+chia_program_path show -a sumo.chia.net:8444
+chia_program_path show -a beast.chia.net:8444
+chia_program_path show -a chia.yacp.net:8444
+chia_program_path show -a introducer-apne.chia.net:8444
+chia_program_path show -a introducer-apse.chia.net:8444
+chia_program_path show -a introducer.chia.net:8444
+chia_program_path show -a introducer-or.chia.net:8444
+chia_program_path show -a introducer-va.chia.net:8444
+chia_program_path show -a introducer-eu.chia.net:8444
+chia_program_path show -a apne.chia.net:8444
+chia_program_path show -a apse.chia.net:8444
+chia_program_path show -a eu.chia.net:8444
+chia_program_path show -a www.apm5.com:8444
+chia_program_path show -a mygx.wicp.net:8444
+chia_program_path show -a node.skywing.me:8444
+chia_program_path show -a xiaoheitu.mynetgear.com:8444
+chia_program_path show -a t.imlxy.net:8444
+chia_program_path show -a 46.164.244.128:8444
+chia_program_path show -a 86.115.221.224:8444
+chia_program_path show -a 109.106.139.185:8444
+chia_program_path show -a 37.57.127.59:8444
+chia_program_path show -a 90.251.254.12:8444
+chia_program_path show -a 118.174.255.183:8444
+chia_program_path show -a 46.19.196.63:8444
+chia_program_path show -a 222.90.142.28:8444
+chia_program_path show -a 116.4.8.62:8444
+chia_program_path show -a 222.68.26.133:8444
+chia_program_path show -a 192.144.214.57:8444
+chia_program_path show -a 178.91.58.107:8444
+chia_program_path show -a node.chiaai.net:8444
+chia_program_path show -a 77.220.11.96:8444
+chia_program_path show -a 129.227.137.236:8444
+chia_program_path show -a 112.248.132.130:8444
+chia_program_path show -a 134.249.224.71:8444
+chia_program_path show -a 190.45.109.97:8444
+chia_program_path show -a 134.3.231.147:8444
+chia_program_path show -a 189.60.5.122:8444
+chia_program_path show -a 1.70.246.64:8444
+chia_program_path show -a 77.254.117.62:8444
+chia_program_path show -a 217.193.163.18:8444
+chia_program_path show -a node.chia.migpool.com:8444
+chia_program_path show -a node.skywing.me:8444
+chia_program_path show -a 80.153.63.138:8444
+chia_program_path show -a 117.71.190.251:8444
+chia_program_path show -a 81.240.70.27:8444
+chia_program_path show -a 180.183.71.216:8444
+chia_program_path show -a 92.49.193.25:8444
+chia_program_path show -a 125.26.198.16:8444
+chia_program_path show -a 217.225.40.225:8444
